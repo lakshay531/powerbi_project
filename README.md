@@ -1,5 +1,4 @@
-# powerbi_project
-Power BI dashboard showcasing Atlic Hardware Company's financial performance, including revenue, cost, profit .
+
 # Financial Dashboard Report for Atlic Hardware
 
 This report provides a detailed overview of the financial performance of Atlic Hardware based on the 2022 estimated data visualized in the Power BI dashboards.
