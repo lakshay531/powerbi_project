@@ -3,6 +3,7 @@
 
 This report provides a detailed overview of the financial performance of Atlic Hardware based on the 2022 estimated data visualized in the Power BI dashboards.
 
+https://app.powerbi.com/groups/me/reports/a207933b-7910-40ae-beda-0518204cfe1f/ReportSection3e6d270a5b20870d7cd8?experience=power-bi
 ---
 
 ## Key Highlights
